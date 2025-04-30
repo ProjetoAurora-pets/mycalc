@@ -1,5 +1,3 @@
-print("Isto é uma calculadora")
-
 operacao = input("Escolha uma das operações: +|-||/|* ")
 elif operacao == "*":
     num1 = float(input("Digite o primeiro número: "))
