@@ -1,5 +1,3 @@
-print("Isto é uma calculadora")
-
 elif calculadora == "**":
     num1 = float(input("Novamente, digite outro numero"))
     num2 = float(input("Mais outro numero"))
