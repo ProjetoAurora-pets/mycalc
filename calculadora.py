@@ -16,3 +16,8 @@ elif operacao == "*":
     num2 = float(input("Digite o segundo número: "))
     resultado = num1 * num2
     print(f"O resultado da multiplicação de {num1} e {num2} é igual a: {resultado}" )
+elif calculadora == "**":
+    num1 = float(input("Novamente, digite outro numero"))
+    num2 = float(input("Mais outro numero"))
+    resultado = num1 ** num2
+    print(f"O resultado da potencia de {nun1} e {num2} e igual a: {resultado}")
