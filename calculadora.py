@@ -6,3 +6,4 @@ elif operacao == "-":
     num2 = float(input("Digite o segundo número: "))
     resultado = num1 - num2
     print(f"O resultado da subtracao de {num1} e {num2} é igual a: {resultado}" )
+else: print("Não foi possivel fazer a operacão")
