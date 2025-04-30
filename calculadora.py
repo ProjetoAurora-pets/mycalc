@@ -1,4 +1,3 @@
-operacao = input("Escolha uma das operações: +|-||/|* ")
 elif operacao == "*":
     num1 = float(input("Digite o primeiro número: "))
     num2 = float(input("Digite o segundo número: "))
