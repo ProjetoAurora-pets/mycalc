@@ -21,3 +21,9 @@ elif calculadora == "**":
     num2 = float(input("Mais outro numero"))
     resultado = num1 ** num2
     print(f"O resultado da potencia de {nun1} e {num2} e igual a: {resultado}")
+elif operacao == "-":
+    num1 = float(input("Digite o primeiro número: "))
+    num2 = float(input("Digite o segundo número: "))
+    resultado = num1 - num2
+    print(f"O resultado da subtracao de {num1} e {num2} é igual a: {resultado}" )
+else: print("Não foi possivel fazer a operacão")
